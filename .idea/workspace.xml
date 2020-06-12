@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3cad65-1f79-4d14-84b3-d5d826abdd8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="bf3cad65-1f79-4d14-84b3-d5d826abdd8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emmanuel Cadet\Desktop\Compro Program\Altimetrik\Udemy_Courses\React\EducaSys\react-deploy\src" />
       <recent name="C:\Users\Emmanuel Cadet\Desktop\Compro Program\Altimetrik\Udemy_Courses\React\EducaSys\react-deploy\src\containers" />
     </key>
   </component>
@@ -68,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591938192044</updated>
-      <workItem from="1591938195061" duration="1118000" />
+      <workItem from="1591938195061" duration="1384000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1591938833983</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591939080124</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new">
+      <created>1591939497564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591939497564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
