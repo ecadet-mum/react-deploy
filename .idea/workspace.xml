@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3cad65-1f79-4d14-84b3-d5d826abdd8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="bf3cad65-1f79-4d14-84b3-d5d826abdd8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591938192044</updated>
-      <workItem from="1591938195061" duration="1898000" />
+      <workItem from="1591938195061" duration="2145000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1591938833983</created>
@@ -99,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591939589957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new">
+      <created>1591940130208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591940130208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new">
+      <created>1591940318236</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591940318236</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
